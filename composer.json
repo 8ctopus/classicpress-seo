@@ -27,12 +27,10 @@
 	"prefer-stable": true,
 	"autoload": {
 		"classmap": [
-			"includes/",
-			"vendor/"
+			"includes/"
 		],
 		"files": [
-			"includes/template-tags.php",
-			"vendor/cmb2/init.php"
+			"includes/template-tags.php"
 		]
 	},
 	"config": {
