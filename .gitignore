@@ -1,3 +1,4 @@
 *.zip
 sitemap-cache/*
 .DS_Store
+/vendor/
