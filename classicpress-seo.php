@@ -263,7 +263,7 @@ class Classic_SEO {
 	 * Include the required files.
 	 */
 	private function includes() {
-		include dirname( __FILE__ ) . '/vendor/autoload.php';
+		//include dirname( __FILE__ ) . '/vendor/autoload.php';
 		require_once( dirname( __FILE__ ) . '/includes/class-update-client.php' );
 		require_once( dirname( __FILE__ ) . '/includes/class-update-client-tweaks.php' );
 	}
